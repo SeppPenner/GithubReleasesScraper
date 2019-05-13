@@ -2,7 +2,7 @@ GithubReleasesScraper
 ====================================
 
 GithubReleasesScraper is a script to get the releases of a Github project in a markdown formatted file.
-GithubReleasesScraper is written and tested in Python 3.7.3
+GithubReleasesScraper is written and tested in Python 3.7.3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/g3pp8gxx5ywjxxnt?svg=true)](https://ci.appveyor.com/project/SeppPenner/githubreleasesscraper)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GithubReleasesScraper.svg)](https://github.com/SeppPenner/GithubReleasesScraper/issues)

@@ -36,5 +36,5 @@ Check the [result.md](https://github.com/SeppPenner/GithubReleasesScraper/blob/m
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated requieremtns, updated python version.
+* **Version 1.0.0.1 (2019-09-29)** : Updated requirements, updated python version.
 * **Version 1.0.0.0 (2018-05-13)** : 1.0 release.

@@ -14,7 +14,7 @@ GithubReleasesScraper is written and tested in Python 3.7.4.
 ## Basic usage
 1. Adjust the `projects` section in the [GithubReleasesScraper.py](https://github.com/SeppPenner/GithubReleasesScraper/blob/7da9d3f467730bac53f95980e7a60c5fa2e62bc1/GithubReleasesScraper.py#L7) file.
 2. Install the requirements using `pip3 install -r requirements.txt`, `install.sh` or `install.bat`.
-3. Run the project using `python LoadGames.py`, `run.sh` or `run.bat`.
+3. Run the project using `python GithubReleasesScraper.py`, `run.sh` or `run.bat`.
 
 ## The result
 The result looks like this:

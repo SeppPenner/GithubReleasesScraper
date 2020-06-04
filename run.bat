@@ -1,1 +1,1 @@
-python LoadGames.py
+python GithubReleasesScraper.py
